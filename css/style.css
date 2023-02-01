@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.artigo{
+	width: 1280px;
+	margin: 48px auto;
+	text-align: center;
+	background-color: lightgrey;
+	margin-top: 3px;
+  	margin-bottom: 3px;
+  	margin-left: 10px;
+  	margin-right: 10px;
+}
+
+h2{
+	color: seagreen ;
+	font-size: 35px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+}
+.artigo p{
+	display: block;
+  	margin-top: 3px;
+  	margin-bottom: 3px;
+  	margin-left: 10px;
+  	margin-right: 10px;
+	text-indent: 50px;
+	color: darkgrey;
+	font-size: 17px;
+	font-family: Tahoma;
+	font-style: normal;
+	font-weight: bold;
+	margin-top: 12px;
+	
+
+
+}
