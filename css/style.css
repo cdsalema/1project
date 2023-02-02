@@ -1,40 +1,74 @@
 *{
 	margin: 0;
 	padding: 0;
+    background-color: #7fffd4;
 }
 
-.artigo{
-	width: 1280px;
-	margin: 48px auto;
+/* .links{
+	align-self: center;
+    width: 35%;
 	text-align: center;
 	background-color: lightgrey;
-	margin-top: 3px;
-  	margin-bottom: 3px;
-  	margin-left: 10px;
-  	margin-right: 10px;
-}
+    margin-top: 5px;
+  	margin-bottom: 5px;
+  	margin-left: 20px;
+  	margin-right: 20px;
+    font-family: Tahoma;
+    font-style: normal;
+     
+}*/
 
-h2{
+.banner{ 
+    text-align: center;
 	color: seagreen ;
 	font-size: 35px;
 	font-family: Tahoma;
 	font-style: normal;
 	font-weight: bold;
+    
 }
+
 .artigo p{
 	display: block;
-  	margin-top: 3px;
-  	margin-bottom: 3px;
+    text-align: center;
+   	margin-top: 5px;
+  	margin-bottom:5px;
   	margin-left: 10px;
   	margin-right: 10px;
 	text-indent: 50px;
 	color: darkgrey;
+    background-color: #9eddc8;
 	font-size: 17px;
 	font-family: Tahoma;
-	font-style: normal;
-	font-weight: bold;
+	font-style: italic;
 	margin-top: 12px;
 	
-
-
 }
+.button{
+    background:    linear-gradient(#55ab8f, #7fffd4);
+    border-radius: 1000px;
+    border-style: double;
+    padding:       20px 45px;
+    color:         #c51717;
+    display:block;
+    font:          normal bold 21px/1 "Roboto", sans-serif;
+    text-align:    center;
+    width: 7%;
+	margin-top: 5px;
+  	margin-bottom: 5px;
+  	margin-left: 20px;
+  	margin-right: 20px;
+    
+}
+a:link, a:visited {
+    color: white;
+    text-decoration:none;
+    background: none;
+    cursor:grab;
+  }
+  
+  a:link:active, a:visited:active {
+    color: lightgreen;
+  }
+
+ 
