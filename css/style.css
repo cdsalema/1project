@@ -1,8 +1,9 @@
 *{
-	margin: 0;
-	padding: 0;
+	margin: 5px;
+	padding: 5px;
     background-color: #7fffd4;
 }
+
 
 /* .links{
 	align-self: center;
@@ -31,12 +32,12 @@
 .artigo p{
 	display: block;
     text-align: center;
-   	margin-top: 5px;
-  	margin-bottom:5px;
-  	margin-left: 10px;
-  	margin-right: 10px;
-	text-indent: 50px;
-	color: darkgrey;
+   	margin-top: 10px;
+  	margin-bottom:10px;
+  	margin-left: 25%;
+  	margin-right: 25%;
+	
+	color: black;
     background-color: #9eddc8;
 	font-size: 17px;
 	font-family: Tahoma;
@@ -48,16 +49,15 @@
     background:    linear-gradient(#55ab8f, #7fffd4);
     border-radius: 1000px;
     border-style: double;
-    padding:       20px 45px;
-    color:         #c51717;
-    display:block;
-    font:          normal bold 21px/1 "Roboto", sans-serif;
-    text-align:    center;
+    padding: 20px 45px;
+    color: #c51717;
+    font: normal bold 21px/1 "Roboto", sans-serif;
+    text-align: center;
     width: 7%;
-	margin-top: 5px;
-  	margin-bottom: 5px;
-  	margin-left: 20px;
-  	margin-right: 20px;
+	margin-left: 43%;
+	margin-right: 50%;
+	margin-top: 10px;
+	margin-bottom: 10px;
     
 }
 a:link, a:visited {
@@ -65,10 +65,12 @@ a:link, a:visited {
     text-decoration:none;
     background: none;
     cursor:grab;
+	
   }
   
   a:link:active, a:visited:active {
     color: lightgreen;
+	
   }
 
  
