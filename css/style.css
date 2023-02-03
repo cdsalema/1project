@@ -21,22 +21,16 @@
 
 .banner{ 
     text-align: center;
-	color: seagreen ;
-	font-size: 35px;
-	font-family: Tahoma;
-	font-style: normal;
-	font-weight: bold;
-    
+	margin-bottom: 0ex;    
 }
 
 .artigo p{
 	display: block;
     text-align: center;
-   	margin-top: 10px;
-  	margin-bottom:10px;
-  	margin-left: 25%;
+   	margin-left: 25%;
   	margin-right: 25%;
-	
+	margin-top: 0px;
+	margin-bottom: 0px;
 	color: black;
     background-color: #9eddc8;
 	font-size: 17px;
